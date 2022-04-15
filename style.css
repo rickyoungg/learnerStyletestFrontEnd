@@ -1,0 +1,40 @@
+.question{
+    font-family: Arial;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+.answers{
+    font-family: Arial;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+.quesAns{
+    border: solid;
+}
+.header{
+    font-family: coppertone;
+    font-size: 350%;
+    color: purple;
+}
+
+
+#submitButton {
+    transition-duration: 0.4s;
+    font-size: 50px;
+    border-radius: 5px;
+  }
+  
+#submitButton:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+input[type="radio"]{
+    height: 2em;
+    width: 30%;
+    border: 0px;
+}
+.body{
+    background-color: rgba(201, 76, 76, 0.3);
+}
